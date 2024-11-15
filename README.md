@@ -4,7 +4,7 @@ I Love Programming
 
 Skills: None XD
 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: Facebook or Instagram 
 - ⚡ Fun fact: I belong to the youth city council 
 
