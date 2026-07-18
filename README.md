@@ -9,7 +9,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img data-importer="image" align="right" height="150" src="https://avatars.githubusercontent.com/u/107358292?v=4"  />
 
 ###
 
@@ -65,15 +65,3 @@
 <br clear="both">
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/HubertKoszyk/HubertKoszyk/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<div data-importer="socials" align="left">
-</div>
-
-###
-
-<div data-importer="techs" align="left">
-</div>
-
-###
